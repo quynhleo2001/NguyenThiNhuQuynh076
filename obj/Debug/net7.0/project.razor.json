@@ -16580,6 +16580,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\QUYNH\\OneDrive\\Net Core MVC\\NguyenThiNhuQuynh076\\Views\\NTNQ1076\\Create.cshtml",
+      "TargetPath": "Views\\NTNQ1076\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\QUYNH\\OneDrive\\Net Core MVC\\NguyenThiNhuQuynh076\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
